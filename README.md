@@ -29,3 +29,4 @@
 ## Other observations
 - Alignment in sandbox mode may not always work as expected.
 - There is currently no way to export the model to an actual HTML file.
+- This project is archived and no longer worked on
